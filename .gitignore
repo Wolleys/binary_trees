@@ -1,0 +1,15 @@
+# Ignore Emacs buffer files
+*~
+*#
+
+# Ignore object files
+*.o
+
+# Ignore all main files
+*-main.c
+
+# Ignore executable files
+*.out
+
+# Ignore print function file
+binary_tree_print.c
